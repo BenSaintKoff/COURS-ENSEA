@@ -1,0 +1,5 @@
+
+
+
+https://notebook.community/Mashimo/datascience/01-Regression/Regularisation
+https://notebook.community/SteveDiamond/cvxpy/examples/machine_learning/lasso_regression
